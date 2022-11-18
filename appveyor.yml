@@ -6,7 +6,7 @@ only_commits:
     - sp/src/**
 
 image:
-  - Visual Studio 2013
+  - Visual Studio 2015
 #  - Ubuntu
 
 clone_depth: 1
